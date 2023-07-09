@@ -22,12 +22,12 @@ GitHub spärrar normalt sina Wikis från att bli indexerade av Google förutom d
 
 För att denna Wiki ska klassas som seriös behöver den 500 "likes", dvs. 500 stjärnor på GitHub. 
 
-[[/images/2023-07-09-17-38-42.png]]
+![](./images/2023-07-09-17-38-42.png)
 
 Så [skapa gärna ett konto på GitHub](https://github.com/signup) och ge oss en stjärna.  
 Du behöver ett konto i vilket fall om du vill uppmärksamma oss på fel i Wikin eller vill föreslå nya artiklar utan att skriva Markdown etc., direkt via GitHub.
 
-[[/images/2023-07-09-17-52-09.png]]
+![](./images/2023-07-09-17-52-09.png)
 
 ## 4. Kontakter
 
