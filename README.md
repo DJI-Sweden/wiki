@@ -8,11 +8,11 @@ Klicka på `Wiki` för att se den.
 
 ![](./images/2023-07-09-18-02-19.png)
 
-Då Wikis på GitHub inte enkelt går att hantera (även om de också använder Git) så ligger materialet på https://github.com/DJI-Sweden/wiki_repo som "kod (code)". Det heter kod men det är vanlig text tillsammans med en enkel syntax som används för rubriker, bilder, länkning etc.
+Då Wikis på GitHub inte enkelt går att hantera (även om Wikis också använder Git) så ligger materialet upplagt på https://github.com/DJI-Sweden/wiki_repo som "kod (code)". Det heter kod men det är vanlig text tillsammans med en enkel syntax som används för rubriker, bilder, länkning etc.
 
-Det innebär att hela Wikin går att hantera med de metoder och verktyg som används i Git för att få full kontroll på historik samt godkännande innan publicering. Dvs. i enlighet med principen `Documentation as Code (DaC)`.
+Det innebär att hela Wikin går att hantera på wiki_repo med de metoder och verktyg som används i Git för att få full kontroll på historik samt godkännande innan publicering. Dvs. i enlighet med principen `Documentation as Code (DaC)`.
 
-Alla ändringar görs i filerna på wiki_repo. När något godkänts via en peer-review (sk. `Pull Request`), så publiceras det hit här.
+Alla ändringar görs i filerna på wiki_repo. När något godkänts via en peer-review (sk. `Pull Request`), så publiceras det hit här till sajten wiki.
 
 ## 2. Användning/Hur gör jag
 
@@ -22,14 +22,14 @@ Inget av detta är egentligen särskilt svårt, men de kräver lite tid att sät
 
 ## 3. Hjälp oss synas, ge oss en stjärna
 
-GitHub spärrar normalt sina Wikis från att bli indexerade av Google, förutom de som klassas som seriösa. Detta är ett sätt att undvika missbruk av GitHub.
+GitHub spärrar normalt sina Wikis från att bli indexerade av Google, förutom de som klassas som seriösa. Detta är ett sätt från GitHub att undvika missbruk.
 
 För att denna Wiki ska klassas som seriös behöver den 500 "likes", dvs. 500 stjärnor på GitHub. 
 
 ![](./images/2023-07-09-17-38-42.png)
 
 Så [skapa gärna ett konto på GitHub](https://github.com/signup) och ge oss en stjärna.  
-Du behöver ett konto i vilket fall om du vill uppmärksamma oss på fel i Wikin eller vill föreslå nya artiklar utan att skriva Markdown etc., direkt via GitHub.
+Du behöver ett konto i vilket fall om du vill uppmärksamma oss på fel i Wikin i materialet på wiki_repo eller vill föreslå nya artiklar utan att skriva Markdown själv etc., direkt via GitHub.
 
 ![](./images/2023-07-09-17-52-09.png)
 
