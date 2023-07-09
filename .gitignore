@@ -1,0 +1,49 @@
+﻿# Forbid everything except Git
+*.*
+!.git*
+
+# Allow Markdown
+!*.md
+!*.png
+!*.jpg
+
+# Allow ASCII Doc
+!*.ad
+!*.adoc
+!*.asciidoc
+
+# Allow FrontMatter
+!*.frontmatter
+
+# Allow PowerShell
+# !*.ps1 # Scripts
+# !*.psm1 # Modules
+# !*.psd1 # Data Files
+# !*.pssc # Session Configuration Files
+# !*.psrc # Role Capability Files
+# !*.psxml # Powershell Xml Files
+# !*.cdxml # Powershell Xml Files
+
+# Allow generic plain text data formats
+# !*.xml
+# !*.json
+# !*.txt
+# !*.csv
+
+# Allow Windows reg files
+# !*.reg
+
+# Allow Office files
+# !*.docx
+# !*.dotx
+# !*.xlsx
+# !*.pptx
+# !*.potx
+# !*.ppsx
+# !*.vsd
+# !*.vsdx
+# !*.vss
+# !*.vssx
+# !*.pdf
+
+# Allow other stuff...
